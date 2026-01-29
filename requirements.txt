@@ -1,0 +1,11 @@
+
+---
+
+# 📦 requirements.txt
+
+```txt
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
