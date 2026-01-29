@@ -1,9 +1,4 @@
-
----
-
-# 📦 requirements.txt
-
-```txt
+# requirements.txt
 numpy
 pandas
 matplotlib
